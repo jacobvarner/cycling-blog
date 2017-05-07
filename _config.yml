@@ -22,3 +22,8 @@ url: "http://cycling.jacobvarner.com" # the base hostname & protocol for your si
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
