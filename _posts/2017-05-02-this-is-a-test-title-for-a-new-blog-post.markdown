@@ -5,7 +5,7 @@ date:   2017-05-02
 categories: product-review race-report
 published: true
 image: 2017-05-02.jpg
-exerpt: >
+excerpt: >
   This is a test excerpt for the blog posts to try and get them working.
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eleifend eros et vestibulum maximus. Ut massa nunc, tincidunt nec vestibulum malesuada, hendrerit vel neque. Curabitur scelerisque tortor ac mi hendrerit ornare. Sed feugiat blandit leo, nec laoreet libero viverra sed. Proin dictum vulputate justo in blandit. Sed auctor mi a tristique gravida. Praesent dignissim metus eu ante ultrices maximus. Nullam convallis nunc at augue venenatis gravida. Aenean a ligula lacinia, convallis metus tristique, ornare mi. Suspendisse pulvinar tincidunt eros, ut faucibus nibh. Sed elementum ultrices enim, sed hendrerit ipsum blandit ut. Suspendisse potenti. Phasellus molestie purus vitae ornare imperdiet.
