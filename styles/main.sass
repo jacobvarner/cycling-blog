@@ -234,3 +234,99 @@ div.home
       a.twitter
         left: 150px
         background-color: #1a8bf0
+
+div.routes-wrapper
+  width: 960px
+  overflow: auto
+  margin: 20px auto
+  font-size: 0
+
+  @media only screen and (max-width: 980px)
+    width: 640px
+
+  @media only screen and (max-width: 660px)
+    width: 320px
+
+  h1.routes-heading
+    font-family: "Oswald", sans-serif
+    font-size: 32px
+    line-height: 32px
+    color: #ccb51b
+    text-align: center
+    margin: 10px 20px
+
+    @media only screen and (max-width: 660px)
+      font-size: 18px
+      line-height: 18px
+
+  p.routes-description
+    font-family: "Slabo 27px", serif
+    font-size: 18px
+    line-height: 24px
+    color: #bbbbbb
+    margin: 10px 60px 20px
+    text-align: justify
+
+    @media only screen and (max-width: 980px)
+      margin: 10px 40px 20px
+
+    @media only screen and (max-width: 660px)
+      margin: 10px 20px 20px
+      font-size: 14px
+      line-height: 18px
+
+  div.route-container
+    display: block
+    width: 300px
+    float: left
+    overflow: auto
+    margin: 10px
+    background-color: #292929
+    box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.5)
+
+    h2.route-name
+      font-family: "Oswald", sans-serif
+      font-size: 22px
+      line-height: 22px
+      font-weight: bold
+      text-align: center
+      margin: 0
+      color: #bbbbbb
+      display: block
+      background-color: #222222
+      padding: 20px 20px
+      border-bottom: 5px solid #ccb51b
+
+    h3.route-distance
+      font-family: "Oswald", sans-serif
+      font-size: 120px
+      line-height: 120px
+      font-weight: bold
+      text-align: center
+      margin: 20px 20px 0
+      color: white
+
+    p.distance-label
+      font-family: "Oswald", sans-serif
+      font-size: 24px
+      line-height: 24px
+      font-weight: normal
+      text-align: center
+      margin: 0 0 30px
+      text-transform: uppercase
+      color: #777777
+
+    a.route-link
+      display: block
+      text-decoration: none
+      text-align: center
+      font-size: 28px
+      font-family: "Oswald", sans-serif
+      font-weight: normal
+      text-transform: uppercase
+      color: #000000
+      background-color: #ccb51b
+      padding: 15px
+
+      &:hover
+        color: white

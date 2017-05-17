@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<div class="routes-wrapper">
+  <h1 class="routes-heading">Road Cycling Routes in Auburn, AL</h1>
+  <p class="routes-description">This is a collection of routes in and around Auburn, Alabama. Each of these routes starts and ends at Toomer's Corner in the center of town, but can easily be modified to leave from various locations around town. I have tried to create just unique routes for this page, but many of these routes can easily be combined in order to make rides of varying lengths, which is something I often do in training.</p>
+  {% for route in site.routes %}
+    <div class="route-container">
+      <h2 class="route-name">{{ route.name }}</h2>
+      <h3 class="route-distance">{{ route.distance }}</h3>
+      <p class="distance-label">Miles</p>
+      <a class="route-link" href="{{ route.link }}" target="_blank">View Route</a>
+    </div>
+  {% endfor %}
+</div>
