@@ -2,7 +2,6 @@
 layout: post
 title: "This is a Test Title for a New Blog Post."
 date:   2017-05-03
-categories: product-review race-report
 published: true
 image: 2017-05-03.jpg
 excerpt: >
