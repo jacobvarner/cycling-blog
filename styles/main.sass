@@ -422,3 +422,203 @@ article.post-wrapper
       line-height: 20px
       color: #888888
       font-weight: normal
+
+h2.results-heading
+  font-family: "Oswald", sans-serif
+  font-size: 32px
+  line-height: 32px
+  color: #ccb51b
+  text-align: center
+  margin: 20px
+
+  @media only screen and (max-width: 660px)
+    font-size: 24px
+    line-height: 24px
+
+div.podium-wrapper
+  display: block
+  width: 960px
+  margin: 0px auto
+  overflow: auto
+  font-size: 0
+
+  @media only screen and (max-width: 960px)
+    width: 640px
+
+  @media only screen and (max-width: 640px)
+    width: 320px
+
+  div.podium-container
+    display: block
+    width: 300px
+    float: left
+    overflow: auto
+    margin: 10px
+    background-color: #292929
+    box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.5)
+
+    h3.race-title
+      font-family: "Oswald", sans-serif
+      font-size: 18px
+      line-height: 18px
+      font-weight: normal
+      text-align: center
+      margin: 10px 0 0
+      padding-bottom: 12px
+      color: #888888
+      border-bottom: 2px solid #ccb51b
+
+    p.race-category
+      display: inline-block
+      width: 149px
+      margin: 0px
+      text-align: center
+      font-family: "Oswald", sans-serif
+      font-size: 16px
+      line-height: 28px
+      color: #292929
+      border-right: 2px solid #ccb51b
+      border-bottom: 2px solid #ccb51b
+      background-color: #888888
+
+    p.race-type
+      display: inline-block
+      width: 149px
+      margin: 0px
+      text-align: center
+      font-family: "Oswald", sans-serif
+      font-size: 16px
+      line-height: 28px
+      color: #292929
+      background-color: #888888
+      border-bottom: 2px solid #ccb51b
+
+    p.race-result
+      font-family: "Oswald", sans-serif
+      font-size: 48px
+      line-height: 120px
+      color: white
+      width: 120px
+      height: 120px
+      border-radius: 50%
+      display: block
+      margin: 30px auto
+      text-align: center
+
+      &.first
+        background-color: #ccb51b
+
+      &.second
+        background-color: #c0c0c0
+
+      &.third
+        background-color: #A57164
+
+      &.fourth
+        background-color: #666666
+
+      &.fifth
+        background-color: #666666
+
+    p.race-date
+      font-family: "Oswald", sans-serif
+      font-weight: normal
+      font-size: 14px
+      line-height: 14px
+      text-align: left
+      margin: 10px
+      color: #dddddd
+
+div.results-wrapper
+  display: block
+  width: 900px
+  background-color: #292929
+  box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.5)
+  overflow: auto
+  margin: 30px auto
+
+  @media only screen and (max-width: 920px)
+    width: 600px
+
+  @media only screen and (max-width: 620px)
+    width: 300px
+
+  div.result-container
+    display: block
+    width: 880px
+    padding: 10px
+    border-bottom: 2px solid #ccb51b
+    font-size: 0
+
+    &:hover
+      background-color: #666666
+
+    @media only screen and (max-width: 920px)
+      width: 580px
+
+    @media only screen and (max-width: 620px)
+      width: 280px
+
+    p
+      display: inline-block
+      font-size: 16px
+      font-family: "Oswald", sans-serif
+      font-weight: normal
+      line-height: 16px
+      color: #dddddd
+      margin: 0
+      padding: 0
+
+      @media only screen and (max-width: 920px)
+        font-size: 14px
+        line-height: 14px
+
+      &.result-title
+        width: 500px
+
+        @media only screen and (max-width: 920px)
+          width: 300px
+
+        @media only screen and (max-width: 620px)
+          width: 280px
+
+      &.result-category
+        width: 100px
+        text-align: center
+
+        @media only screen and (max-width: 920px)
+          width: 70px
+
+        @media only screen and (max-width: 620px)
+          margin-top: 10px
+          text-align: left
+
+      &.result-type
+        width: 100px
+        text-align: center
+
+        @media only screen and (max-width: 920px)
+          width: 70px
+
+        @media only screen and (max-width: 620px)
+          margin-top: 10px
+
+      &.result-place
+        width: 50px
+        text-align: center
+
+        @media only screen and (max-width: 920px)
+          width: 30px
+
+        @media only screen and (max-width: 620px)
+          margin-top: 10px
+
+      &.result-date
+        width: 130px
+        text-align: right
+
+        @media only screen and (max-width: 920px)
+          width: 110px
+
+        @media only screen and (max-width: 620px)
+          margin-top: 10px
