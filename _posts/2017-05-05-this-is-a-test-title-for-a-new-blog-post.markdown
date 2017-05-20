@@ -1,26 +1,32 @@
 ---
 layout: post
-title: "This is a Test Title for a New Blog Post."
-date:   2017-05-05
+title: "Welcome to My Life on Two Wheels"
+date:   2017-05-19
 published: true
-image: 2017-05-05.jpg
+image: 2017-05-19.jpg
 excerpt: >
-  This is a test excerpt for the blog posts to try and get them working.
+  An introduction to my new cycling blog that will cover the ins and outs of my adventures revolving around my bikes. I plan to upload race reports, gear reviews, fun adventures, and continue to add to my results and routes provided already.
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eleifend eros et vestibulum maximus. Ut massa nunc, tincidunt nec vestibulum malesuada, hendrerit vel neque. Curabitur scelerisque tortor ac mi hendrerit ornare. Sed feugiat blandit leo, nec laoreet libero viverra sed. Proin dictum vulputate justo in blandit. Sed auctor mi a tristique gravida. Praesent dignissim metus eu ante ultrices maximus. Nullam [convallis nunc at augue](http://www.test.com) venenatis gravida. Aenean a ligula lacinia, convallis metus tristique, ornare mi. Suspendisse pulvinar tincidunt eros, ut faucibus nibh. Sed elementum ultrices enim, sed hendrerit ipsum blandit ut. Suspendisse potenti. Phasellus molestie purus vitae ornare imperdiet.
+*Welcome!*
 
-Etiam tempor feugiat sapien in fringilla. Donec at euismod lorem. Duis quis eros metus. Suspendisse sit amet massa erat. Vestibulum vulputate sed metus sed scelerisque. Nulla facilisi. In eget vehicula tellus, eu venenatis nisl. Aliquam suscipit ex eu libero mollis hendrerit. Proin feugiat sagittis odio eget dictum. Donec non gravida lorem, eget sagittis urna. Donec congue, dui id pellentesque imperdiet, risus diam rhoncus eros, id molestie ex enim sed odio. Nulla quis erat in erat dictum dignissim.
+For each new hobby that I find myself enjoying, I like to incorporate my skills in web development as well as my enjoyment of writing and try to build a blog aimed at whatever new fascination I have. Cycling has been a growing interest in my life over the past few years an it's finally come to the point where I thought a blog would be beneficial (and found time to build said blog). Obviously, this is that blog.
 
-### Heading
+### Race Recaps
 
-Nulla a nunc a mi feugiat interdum. Nullam nec sapien suscipit, sagittis nulla auctor, lobortis metus. Mauris fermentum efficitur lacus, quis luctus mauris rutrum a. Suspendisse faucibus libero vitae mauris semper sagittis vitae sed augue. Donec aliquam lacus varius ante laoreet, eget ornare orci finibus. Maecenas at nisl ac turpis pulvinar rutrum in vel nulla. Ut aliquet non nulla mollis molestie. Phasellus eget orci elementum, viverra sapien nec, tempus lorem. Mauris vitae placerat turpis, eget congue elit. Vestibulum ut lacinia risus, a molestie arcu. Ut euismod lectus sed dictum euismod. Suspendisse elementum iaculis arcu, at ultricies tortor pellentesque id. Donec vitae ex aliquam, semper tellus eu, consectetur eros. Ut luctus felis at dignissim viverra. Curabitur molestie quam at dui bibendum, ut ullamcorper orci tempor.
+I first had the idea for this blog as I was in the middle of my first collegiate racing season with the Auburn Flyers and found myself having a hard time explaining to friends and family how my weekends were being spent. Several people have been supportive and encouraging when they see I was doing pretty well in my first season of racing, but I'm sure very few people fully understood what exactly those results mean.
 
-Aliquam egestas augue quis eleifend consectetur. Morbi mattis sapien odio, vitae auctor turpis fermentum eu. Praesent lobortis scelerisque ornare. Nam ante nulla, ultricies at porttitor eu, imperdiet eget libero. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec non urna vitae diam maximus consequat. Morbi efficitur urna accumsan, aliquet ligula eu, faucibus felis. Maecenas justo nulla, cursus ac faucibus sit amet, finibus eu enim. Cras purus libero, ultricies interdum laoreet vitae, viverra sit amet lacus.
+While those that don't understand bike racing, or cycling in general, could only understand the good placings, I also found an enjoyment in recapping the details of each race and weekend in various cycling forums, most notably [r/Velo](https://www.reddit.com/r/velo). This blog will serve as a nice medium for both audiences. It gives me a better platform for really going into detail of my races for those that understand those details, but it also gives me the opportunity to hopefully inform others about the lesser known aspects of bike racing.
 
-Donec feugiat venenatis justo at feugiat. Vivamus nec ex id est cursus imperdiet. Ut interdum nisi quis cursus imperdiet. In aliquam lacus in posuere tristique. Integer laoreet bibendum aliquet. Integer mollis erat quis neque pharetra, in ultrices ipsum commodo. Integer interdum placerat efficitur. Vestibulum metus libero, pellentesque ultrices consectetur quis, euismod quis mi. Fusce viverra eros nec nunc aliquam pulvinar.
+### Product/Gear Reviews
 
-Proin ut fringilla augue. Aenean dictum ullamcorper erat, id pretium nisi iaculis mollis. Morbi et mauris in felis mollis condimentum ut nec quam. Curabitur ultrices lectus non ante feugiat, eget condimentum lorem cursus. Phasellus nec imperdiet ex. Etiam non massa eu elit molestie ultricies. Pellentesque tempor ornare purus, vel vehicula neque sodales vel.
+As I've gotten more and more into cycling, I've quickly found how expensive the hobby can be. I tend to have a knack for falling in love with money pit hobbies... However, I also started to realize how marketable cycling could be since the entire sport, from the pros all the way down to the lowest amateur ranks, is almost completely based off of sponsors.
 
-Morbi convallis vehicula tincidunt. Donec eleifend pharetra molestie. Nullam velit elit, consequat sed consequat id, mollis eget risus. Sed eros turpis, tristique vitae ligula a, molestie fringilla arcu. Maecenas cursus volutpat odio eget ultrices. In hac habitasse platea dictumst. Aenean tortor elit, lacinia ac ante gravida, ultrices facilisis enim. Sed dapibus mattis erat sit amet accumsan. Pellentesque porta eros arcu, sit amet laoreet justo sagittis quis. Fusce ut accumsan elit. Pellentesque semper risus ac est feugiat vulputate. Praesent viverra ultrices nulla, ullamcorper luctus quam placerat eu.
+Gear and product reviews should allow me to help out the few sponsors I've had the pleasure of benefiting from through the Auburn Flyers and maybe even open up new opportunities to try out new stuff and give my opinions for the benefit of others. Like anyone else, and even more so as a college student, I spend a good bit of time "researching" every cycling purchase no matter how big or small. I think I could pass on some of my own "research" in order to help others out as well.
 
-Proin consequat elementum sagittis. Nulla sit amet mollis erat. Curabitur sit amet nibh enim. Aenean vitae tristique nunc. Duis euismod leo interdum eros aliquam volutpat. Donec pulvinar sit amet urna eget gravida. Etiam aliquet velit a placerat mollis. Ut orci ipsum, rutrum a bibendum eget, ultricies sed nisi. Mauris lacinia viverra hendrerit. Integer ut augue urna.
+### Tips, Training, and more
+
+I build this blog with race recaps and product reviews mostly in mind, but as I've been working on the actual site, I've had other ideas pop into my head. I've already implemented pages to share my results as well as provide a central collection for road routes in and around Auburn, where I do most of my riding.
+
+On top of these, I'd love to share my training methods as well as the many tips that I've picked up from various places in the few short years that I've been riding. Cycling is such a social sport and I credit almost all that I've learned so far to friends and many different online resources. It would only be right to continue to add to those resources and keep passing on the torch.
+
+Thanks for taking the time to read my first post and check out the new site. I hope to continue to spread the love of bikes to fellow cyclists as well as non-cyclists and I hope others will enjoy what I have to say.
