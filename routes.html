@@ -9,6 +9,7 @@ layout: default
       <h2 class="route-name">{{ route.name }}</h2>
       <h3 class="route-distance">{{ route.distance }}</h3>
       <p class="distance-label">Miles</p>
+      <p class="route-time">Approximately {{ route.hours }} Hour(s)</p>
       <a class="route-link" href="{{ route.link }}" target="_blank">View Route</a>
     </div>
   {% endfor %}
