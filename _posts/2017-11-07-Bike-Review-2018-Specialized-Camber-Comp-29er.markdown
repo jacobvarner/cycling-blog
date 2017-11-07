@@ -5,7 +5,7 @@ date:   2017-11-07
 published: true
 image: 2017-11-07.jpg
 excerpt: >
-  After my first 100km on my first mountain bike, the Specialized Camber Comp 29er, here's my thoughts on the bike and few notes about my mountain biking experiences in general.
+  After 100km on my first mountain bike, the Specialized Camber Comp 29er, here are my thoughts on the bike and a few notes about offroad experiences so far.
 ---
 I have now put the first 100 km on my new Specialized Camber Comp 29er and it’s certainly served me well as my first mountain bike. Coming from a road background, I may not know the ins and outs of specifically how different mountain bikes feel, but the Camber has made the intro to mountain biking easier and tons of fun.
 
